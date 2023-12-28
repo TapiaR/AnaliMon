@@ -19,8 +19,7 @@ A continuación, se muestra un ejemplo básico de cómo utilizar la biblioteca:
 ### Importar función
 from src.analizador_monedas  import graficador
 
-### Llamar a la unficón graficador()
-par_moneda = "XBTEUR"
+### Llamar a la función graficador()"
 
 ### Insertar input del par de monedas a graficar
 Ingrese el par de monedas a analizar (ejemplo: XBTEUR): ETHUSDT
