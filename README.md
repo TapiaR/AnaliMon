@@ -6,7 +6,9 @@ Descarga de datos históricos de pares de criptomonedas desde Kraken.
 Cálculo del oscilador estocástico.
 Generación de gráficos de velas japonesas.
 Visualización de la evolución del precio y del oscilador estocástico.
-Instalación
+# Cambios con respecto a la 0.1
+Se incluye una función graficador() que contiene el código del programa princpial de tal forma que el usuario solo tenga que llamar a la función e insertar el par de monedas a graficar
+# Instalación
 Puede instalar el Analizador de Criptomonedas directamente desde PyPI:
 
 ### Instalar el paquete 
