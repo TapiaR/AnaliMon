@@ -10,7 +10,7 @@ Instalación
 Puede instalar el Analizador de Criptomonedas directamente desde PyPI:
 
 ### Instalar el paquete 
-pip install UNAV-KRK==0.1.0
+pip install UNAV-KRK==0.2
 # Uso
 A continuación, se muestra un ejemplo básico de cómo utilizar la biblioteca:
 
