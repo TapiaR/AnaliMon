@@ -90,4 +90,4 @@ def obtener_pares_disponibles():
     pares_disponibles = list(response['result'].keys())
     return pares_disponibles
 
-#cambio de prueba
+#cambio de prue
