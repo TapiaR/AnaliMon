@@ -1,7 +1,7 @@
-Analizador de Criptomonedas
+# Analizador de Criptomonedas
 El Analizador de Criptomonedas es una biblioteca de Python diseñada para descargar y analizar datos de criptomonedas desde la API de Kraken. Ofrece funcionalidades para visualizar la cotización de criptomonedas y calcular indicadores técnicos como el oscilador estocástico.
 
-Características
+# Características
 Descarga de datos históricos de pares de criptomonedas desde Kraken.
 Cálculo del oscilador estocástico.
 Generación de gráficos de velas japonesas.
@@ -9,20 +9,18 @@ Visualización de la evolución del precio y del oscilador estocástico.
 Instalación
 Puede instalar el Analizador de Criptomonedas directamente desde PyPI:
 
-bash
-Copy code
-pip install analizador_criptomonedas
-Uso
+# Instalar el paquete 
+pip install UNAV-KRK==0.1.0
+# Uso
 A continuación, se muestra un ejemplo básico de cómo utilizar la biblioteca:
 
-python
-Copy code
+## Importar función
 from src.analizador_monedas  import graficador
 
-# Llamar a la unficón graficador()
+## Llamar a la unficón graficador()
 par_moneda = "XBTEUR"
 
-# Insertar input del par de monedas a graficar
+## Insertar input del par de monedas a graficar
 Ingrese el par de monedas a analizar (ejemplo: XBTEUR): ETHUSDT
 
 
