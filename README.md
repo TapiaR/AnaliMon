@@ -17,7 +17,7 @@ A continuación, se muestra un ejemplo básico de cómo utilizar la biblioteca:
 
 python
 Copy code
-from analizador_criptomonedas import AnalizadorMonedas
+from src.analizador_monedas  import graficador
 
 # Definir el par de monedas a analizar
 par_moneda = "XBTEUR"
