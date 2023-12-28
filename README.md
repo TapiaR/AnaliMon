@@ -19,14 +19,12 @@ python
 Copy code
 from src.analizador_monedas  import graficador
 
-# Definir el par de monedas a analizar
+# Llamar a la unficón graficador()
 par_moneda = "XBTEUR"
 
-# Crear una instancia del analizador
-analizador = AnalizadorMonedas(par_moneda)
+# Insertar input del par de monedas a graficar
+Ingrese el par de monedas a analizar (ejemplo: XBTEUR): ETHUSDT
 
-# Ejecutar el análisis
-analizador.procesar()
 
 
 Requisitos
