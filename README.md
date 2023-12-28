@@ -28,13 +28,13 @@ Ingrese el par de monedas a analizar (ejemplo: XBTEUR): ETHUSDT
 # Requisitos
 Python 3.6 o superior.
 Dependencias: krakenex, pandas, matplotlib, mplfinance. Estas se instalarán automáticamente al instalar este paquete.
-Contribuciones
+# Contribuciones
 Las contribuciones son bienvenidas. Si deseas contribuir, por favor:
 
 Haz un fork del repositorio.
 Crea una rama para tu característica.
 Haz tus cambios y commit.
 Push a tu rama y abre un pull request.
-Licencia
+# Licencia
 Este proyecto está licenciado bajo la Licencia MIT - vea el archivo LICENSE para más detalles.
 
